@@ -1,5 +1,8 @@
 # Gym-Management-System
-hi
+The Gym Management System built using Django serves as a centralized platform for managing various aspects of a gym facility. It provides functionalities for user authentication, membership management, and personalized member profiles. Additionally, the system offers role-based access control, allowing staff, trainers, and members to perform their respective tasks securely and efficiently.
+
+![Screenshot 2024-04-08 173253](https://github.com/surajbhan93/Gym-Management-System/assets/114743961/ede0782f-f061-4ab8-90b1-b069b8aa0656)
+
 <h1>This Project using Technical Skill::</h1>
 <h3>Frontend</h3>
 <ol><li>HTML</li>
